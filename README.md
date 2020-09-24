@@ -10,4 +10,6 @@
 
 
 
-[学习手册](https://github.com/QianheYu/MSP430-study/blob/master/MSP430F5529%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.md)
+[库函数版学习手册](https://github.com/QianheYu/MSP430-study/blob/master/MSP430F5529%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.md)
+
+[寄存器版学习手册]()
