@@ -1,0 +1,8 @@
+# 文件目录结构说明
+
++ MSP430F55xx_Code_Registers_Examples
++ MSP430F5xx_6xx_Devisea_Examples
++ User_Code_Examples
++ Test
+
+该目录下所有内容均为示例代码，其中MSP430F55xx_Code_Registers_Examples目录为官方寄存器版示例，MSP430F5xx_6xx_Devisea_Examples目录为官方库函数版示例，User_Code_Examples目录为项目所有者自行制作的示例，Test目录为测试代码请勿直接使用。
